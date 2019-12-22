@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide|Gloria+Hallelujah|Neucha|Neuton|Prata|Spectral&display=swap');
+
+html {
+  font-family: ''
+}
+
+header h1 {
+  font-family: 'Audiowide', Georgia, serif;
+}
+
+header h3 {
+  font-family: 'Spectral', Georgia, serif;
+}
+
+a, a:visited, a:active {
+  color: #000000;
+  text-decoration: underline;
+}
