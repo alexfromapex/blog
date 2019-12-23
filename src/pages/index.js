@@ -11,7 +11,6 @@ const BlogIndex = (props) => {
   const { data, location } = props;
   const siteTitle = data.site.siteMetadata.title;
   const posts = data.allMarkdownRemark.edges;
-  const rootPath = `${__PATH_PREFIX__}/`;
 
   return (
     <Layout location={props.location} title={siteTitle}>
